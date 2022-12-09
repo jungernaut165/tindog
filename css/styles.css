@@ -1,0 +1,140 @@
+h1{
+        color: #fff;    
+        font-family: montserrat-black;
+        size: 3rem;
+        line-height: 1.5;
+}
+#title{
+    background-color: #ff4c68;
+    
+}
+
+.container-fluid{
+    padding:3% 15%; 
+}
+
+#dogpic{
+    transform: rotate(25deg);
+    width: 60%;
+}
+
+.navbar{
+    background-color: #ff4c68;
+    padding: 0 0 2.5rem 0;
+}
+
+.nav-item{
+    padding:0 18px;
+    font-size:1.2rem;
+    font-family:"Montserrat";
+}
+
+.download-button{
+    margin-top: 1rem;
+    margin: 1%;
+}
+
+h2{
+    font-family: Montserrat;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+h3{
+    font-family: "Montserrat-Bold";
+}
+
+p{
+    size: 0.5rem;
+    color: #8f8f8f;
+}
+#features{
+
+    padding-top: 7%;
+}
+
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+
+.icon{
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.icon:hover{
+    color: #ff4c68;
+}
+
+/* testimonials */
+#testimonials{
+    padding: 7% 15%;
+    text-align: center;
+    color: #fff;
+    background-color: #ef8172;
+}
+
+#goldendog{
+
+    width: 20%;
+    border-radius: 100%;
+    margin-right: 3%;
+}
+
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+.testimonial-image{
+    width: 20%;
+    border-radius: 100%;
+    margin-right: 3%;
+}
+
+#press img{
+    width: 15%;
+    margin: 20px;
+}
+
+.card-title{
+    color:#6c757d!important;
+}
+
+.card{
+    margin:3%;
+}
+
+#price-row{
+    margin: auto 15%;
+}
+
+.carousel-indicators{
+    top:110%;
+}
+
+#pricing{
+    padding:100px;
+}
+
+#cta{
+    text-align: center;
+    color: #fff;
+    font-family: montserrat-black;
+    background-color: #ff4c68;
+    padding: 10%;
+}
+
+.cta-heading{
+    font-size: 3.5rem;
+}
+#footer{
+    padding: 50px 0 50px;
+    text-align: center;
+    line-height: 200%;
+}
+
+#comp-icon{
+    margin: 1%;
+}
